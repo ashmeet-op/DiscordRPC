@@ -1,4 +1,4 @@
-# dcRPCspoofer (Discord RPC for Android)
+# DiscordRPC (Discord RPC Spoof for Android)
 
 This project provides a native Android implementation of the legacy `discord-rpc` C SDK. It is designed to be a replacement for desktop-focused Discord RPC libraries in Android apps (such as `java-discord-rpc`), enabling Rich Presence functionality on mobile devices when paired with an IPC bridge.
 
